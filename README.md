@@ -6,7 +6,7 @@
 [![HuggingFace Spaces](https://img.shields.io/badge/🤗HuggingFace-%20Demo-yellow)](https://huggingface.co/spaces/YOUR_USERNAME/digit-generator)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1-green?logo=pytorch)](https://pytorch.org)
-[![Colab](https://img.shields.io/badge/Colab-App-red?logo=colab)](https://colab.research.google.com)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg/https://img.shields.io/badge/Colab-App-red?logo=colab)](https://colab.research.google.com)
 
 ---
 
