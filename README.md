@@ -359,14 +359,6 @@ Pillow>=9.5      Image processing for app
 numpy>=1.24      Array operations
 ```
 
----
-
-## License
-
-MIT License — free for personal and commercial use.
-
----
-
 ## Acknowledgements
 
 - [MNIST Database](http://yann.lecun.com/exdb/mnist/) — LeCun, Cortes, Burges (1998)
