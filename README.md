@@ -2,8 +2,8 @@
 
 **Conditional VAE trained from scratch on MNIST — generates unique, recognisable handwritten digits conditioned on class label (0–9)**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/CVAE_MNIST_Train_and_Deploy.ipynb)
-[![HuggingFace Spaces](https://img.shields.io/badge/🤗-Spaces%20Demo-yellow)](https://huggingface.co/spaces/YOUR_USERNAME/digit-generator)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/CVAE_MNIST_Train_and_Deploy.ipynb)
+[![HuggingFace Spaces](https://img.shields.io/badge/🤗HunggingFace_Spaces-%20Demo-yellow)](https://huggingface.co/spaces/YOUR_USERNAME/digit-generator)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1-green?logo=pytorch)](https://pytorch.org)
 
