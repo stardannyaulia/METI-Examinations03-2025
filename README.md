@@ -1,6 +1,8 @@
-# ✍ Handwritten Digit Generator
+# ✍ StarLive Conditional Variational Autographic Learning
 
 **Conditional VAE trained from scratch on MNIST — generates unique, recognisable handwritten digits conditioned on class label (0–9)**
+
+*Merupakan pertanyaan pada tes METI Government of Japan for AI and Tech Internship tahun 2025*
 
 [![HuggingFace Spaces](https://img.shields.io/badge/🤗HuggingFace-%20Demo-yellow)](https://huggingface.co/spaces/YOUR_USERNAME/digit-generator)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
