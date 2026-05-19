@@ -368,3 +368,11 @@ numpy>=1.24        Operasi array
 - [β-VAE paper](https://openreview.net/forum?id=Sy2fchgxl) — Higgins et al. (2017)
 - [VAE original paper](https://arxiv.org/abs/1312.6114) — Kingma & Welling (2013)
 - [HuggingFace Spaces](https://huggingface.co/spaces) — hosting model gratis
+
+---
+
+<p align="center">
+  <b>Pengembangan dari tim StarLive SAINT</b>
+</p>
+
+<p align="center">Danny Aulia · Said Hasan Hanafiah · Noah Von Nobelius · Arvian Raveindra Pradana</p>
