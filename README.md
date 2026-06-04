@@ -1,10 +1,10 @@
 # ✍️ StarLive Conditional Variational Autographic Learning
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Gradio](https://img.shields.io/badge/Gradio-4.44%2B-F97316?logo=gradio&logoColor=white)](https://gradio.app)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/spaces)
-[![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-4DABCF?logo=numpy&logoColor=white)](https://numpy.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Gradio](https://img.shields.io/badge/Gradio-F97316?logo=gradio&logoColor=white)](https://gradio.app)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/spaces)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=white)](https://numpy.org)
 
 ---
 
