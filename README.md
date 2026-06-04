@@ -5,8 +5,6 @@
 [![Gradio](https://img.shields.io/badge/Gradio-4.44%2B-F97316?logo=gradio&logoColor=white)](https://gradio.app)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/spaces)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-4DABCF?logo=numpy&logoColor=white)](https://numpy.org)
-[![torchvision](https://img.shields.io/badge/torchvision-0.16%2B-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/vision)
-[![License](https://img.shields.io/badge/License-MIT-22c55e?logo=opensourceinitiative&logoColor=white)](LICENSE)
 
 ---
 
@@ -33,7 +31,7 @@
 
 ## Overview
 
-Proyek ini dikembangkan sebagai solusi untuk tes seleksi **METI Government of Japan AI and Tech Internship 2025**. Sistem mengimplementasikan **Conditional β-VAE** yang dilatih dari awal pada dataset MNIST — menghasilkan angka tulisan tangan unik dan dapat dikenali, dikondisikan berdasarkan label kelas (0–9).
+Proyek ini dikembangkan sebagai jawaban pada tes seleksi **METI Government of Japan AI and Tech Internship 2025**. Sistem mengimplementasikan **Conditional β-VAE** yang dilatih dari awal pada dataset MNIST — menghasilkan angka tulisan tangan unik dan dapat dikenali, dikondisikan berdasarkan label kelas (0–9).
 
 Seluruh 50 sampel yang dihasilkan (5 per angka × 10 angka, temperature=0.85) diuji terhadap **GPT-4o dan berhasil dikenali dengan akurasi 100%**. Model dapat diakses langsung melalui antarmuka web Gradio yang di-deploy ke HuggingFace Spaces.
 
@@ -45,8 +43,6 @@ Digit: 7    Temperature: 0.85
 │ hand)│  ed) │  )   │ like)│  )   │
 └──────┴──────┴──────┴──────┴──────┘
 ```
-
-> *Proyek ini merupakan pertanyaan pada tes seleksi METI Government of Japan — AI and Tech Internship 2025*
 
 ---
 
